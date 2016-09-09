@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7797638c-6a8d-4903-9086-421ad5260176" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/concur-auth-native.py" afterPath="$PROJECT_DIR$/concur-auth-native.py" />
     </list>
     <ignored path="Concur-API-092016.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -314,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1473367578082</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="PiP changes and testing">
+      <created>1473434413191</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1473434413191</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -371,7 +377,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding concur auth code" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding concur auth code" />
+    <MESSAGE value="PiP changes and testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="PiP changes and testing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
